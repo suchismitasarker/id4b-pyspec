@@ -1,0 +1,10 @@
+pyproject.toml
+src/id4b_pyspec/__init__.py
+src/id4b_pyspec/prompt.py
+src/id4b_pyspec/spec_controller.py
+src/id4b_pyspec.egg-info/PKG-INFO
+src/id4b_pyspec.egg-info/SOURCES.txt
+src/id4b_pyspec.egg-info/dependency_links.txt
+src/id4b_pyspec.egg-info/entry_points.txt
+src/id4b_pyspec.egg-info/requires.txt
+src/id4b_pyspec.egg-info/top_level.txt
